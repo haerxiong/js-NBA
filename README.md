@@ -33,3 +33,4 @@ Use pm2 to deploy app on production enviroment.
 pm2 startOrReload pm2.json
 ```
 ------------------------------------------------------------------------
+![image](https://github.com/haerxiong/js-NBA/blob/master/demo.png)
